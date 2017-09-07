@@ -20,7 +20,7 @@
 
     var arraySkillArt = ['Draw a picture', 'Paint a picture', 'draw something in 3d', 'draw an animal','draw a picture of Paris', 'draw a picture of a historical figure','make a water color painting','create 3d shapes from paper','plant seeds and grow something'];
 
-    var arraySkillMemorization = ['Memorize a Poem', 'Memorize a List of Presidents', 'Memorize a List of First Ladies', 'Memorize the 50 states', 'Memorize the 50 State Capitols', 'Memorize the Continents', 'Memorize the countries Europe', 'Memorize the countries in Asia', 'Memorize the the countries in North America', 'Memorize the countries in South America', 'Memorize Multiplication Tables'];
+    var arraySkillMemorization = ['Memorize a Poem', 'Memorize a List of Presidents', 'Memorize a List of First Ladies', 'Memorize the 50 states', 'Memorize the 50 State Capitols', 'Memorize the Continents', 'Memorize the countries Europe', 'Memorize the countries in Asia', 'Memorize the the countries in North America', 'Memorize the countries in South America', 'Memorize countries in Africa'];
     //**************************
 
     //MUSIC RELATED**************************
